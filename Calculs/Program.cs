@@ -61,9 +61,9 @@ namespace Calculs
                         }
                         break;
                     case "2": // multiplication
-                        
+
                         // saisie de la réponse
-                        correct = false;
+                        correct = true;
                         while (!correct)
                         {
                             try
